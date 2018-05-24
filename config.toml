@@ -1,0 +1,18 @@
+baseURL = "http://fsd.bimadata.com/"
+languageCode = "en-us"
+title = "FSDanaro"
+theme = "coder"
+[params] # theme parameters
+    author = "FSD" # author's name
+    info = "Web Developer" # author's job title or info
+    description = "FSD Personal Website" # site description
+    keywords = "blog,developer,personal" # site keywords
+
+    # wether you want to hide copyright and credits in the footer
+    hideCredits = false
+    hideCopyright = true
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
