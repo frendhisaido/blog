@@ -4,7 +4,7 @@ date: 2018-05-24T11:39:01+07:00
 draft: false
 ---
 
-<!-- <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1435_RC10/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"OctoberCms","geo":"","time":"today 5-y"},{"keyword":"wordpress","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=OctoberCms,wordpress","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>  -->
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1435_RC10/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"OctoberCms","geo":"","time":"today 5-y"},{"keyword":"wordpress","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=OctoberCms,wordpress","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
 OctoberCMS jelas bukan platform CMS yang populer. Perbandingan google trends di atas sepertinya cukup membuktikan pernyataan tadi. 
 Wordpress menang, dari segi popularitas. 
