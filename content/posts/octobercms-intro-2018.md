@@ -66,3 +66,16 @@ Buat yang mau belajar, pilih antara Start form scratch atau Start from a theme. 
 ![OctoberCMS Success Page](/img/octo-success-page.png)
 
 Next post kita coba cover soal themes.
+
+
+```
+    public function registerComponents(){
+    return [
+            'RedMarlin\Faq\Components\FaqList' => 'FaqList',
+            'RedMarlin\Faq\Components\FaqAsk' => 'FaqAsk',
+            'RedMarlin\Faq\Components\FaqLast' => 'FaqLast',
+            'RedMarlin\Faq\Components\FaqFeatured' => 'FaqFeatured',
+            'RedMarlin\Faq\Components\FaqAll' => 'FaqAll',
+    ];
+    }
+```
